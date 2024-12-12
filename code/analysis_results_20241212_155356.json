@@ -1,0 +1,4 @@
+{
+  "error": "שגיאה בתקשורת עם Claude API: Client.__init__() got an unexpected keyword argument 'proxies'",
+  "query": "אינסטלטור בתל אביב"
+}
